@@ -1,4 +1,4 @@
-#### Howdy, It's Theshawa aka `logan2k02`.
+#### Howdy, It's Theshawa aka <u>*logan2k02*</u>.
 
 Passionate about building clean and scalable systems.
 
