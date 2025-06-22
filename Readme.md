@@ -4,5 +4,5 @@ Passionate about building clean and scalable systems.
 
 `Backend Development` `Software Architecture` `Web Development` `Mobile Development` `DevOps & Automation` `Compiler Development`
 
-[![theshawa.dev]](https://theshawa.dev)
+[![theshawa.dev](https://theshawa.dev)
 
