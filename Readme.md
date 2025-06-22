@@ -4,6 +4,6 @@ Passionate about building clean and scalable systems.
 
 `Backend Development` `Software Architecture` `Web Development` `Mobile Development` `DevOps & Automation` `Compiler Development`
 
-[theshawa.dev](https://theshawa.dev)
-[logan2k022@gmail.com](mailto:logan2k022@gmail.com)
+- [theshawa.dev](https://theshawa.dev)
+- [logan2k022@gmail.com](mailto:logan2k022@gmail.com)
 
