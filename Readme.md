@@ -1,6 +1,4 @@
-Howdy, It's Theshawa aka `logan2k02`.
-
-### A Software Developer, kind of...
+Howdy, It's Theshawa aka `logan2k02`: **A Software Developer, kind of...**
 
 Passionate about building scalable and available systems.
 
