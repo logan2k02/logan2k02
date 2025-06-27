@@ -1,8 +1,8 @@
-Howdy! It's Theshawa, aka *`logan2k02`*. — Architecture Focused Software Developer
+Howdy! It's Theshawa, aka *`logan2k02`*.
 
 Passionate about building scalable systems focused on architecture and design patterns.
 
-**`System Design`** **`Software Development`** **`Anti AI Coding`** 
+*`System Design`* *`Software Development`* *`Anti AI Coding`*
 
 I might be quiet at first, but my code speaks volumes.  
 Pro tip: Approach with coffee or horror movie recommendations.
