@@ -1,15 +1,8 @@
-Howdy! It's Theshawa, aka *`logan2k02`*.
-
-Passionate about building clean and scalable systems.
-
-`Backend Development` `Software Architecture` `Web Development` `Mobile Development` `DevOps & Automation` `Compiler Development`
-
-
-# 👋 Howdy! It's Theshawa, aka *`logan2k02`*. — Architecture Focused Software Developer
+Howdy! It's Theshawa, aka *`logan2k02`*. — Architecture Focused Software Developer
 
 Passionate about building scalable systems focused on architecture and design patterns.
 
-`**Design Patterns**` `**System Design**` `**Full-Stack Development**` `**Mobile Development**` 
+**`System Design`** **`Software Development`** **`Anti AI Coding`** 
 
 I might be quiet at first, but my code speaks volumes.  
 Pro tip: Approach with coffee or horror movie recommendations.
