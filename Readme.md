@@ -4,13 +4,9 @@ Passionate about building scalable systems focused on architecture and design pa
 
 *`System Design`* *`Software Development`* *`Anti AI Coding`*
 
-I might be quiet at first, but my code speaks volumes.  
-Approach with coffee or horror movie recommendations.
+I might be quiet at first, but my code speaks volumes.
 When I'm not coding, you’ll find me watching horror movies and analyzing their plot twists like system diagrams.
-
-<!--
-Let's connect!  
-Feel free to reach out for collaborations, cool project ideas, or simply to share your favorite scary movie.
--->
+  
+Approach with coffee or horror movie recommendations.
 
 [theshawa.dev](https://theshawa.dev)
